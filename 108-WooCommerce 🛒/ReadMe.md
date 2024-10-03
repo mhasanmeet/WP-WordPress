@@ -10,3 +10,6 @@ Here are some code snippets use to add extra functionality / features to WooComm
 ## WooCommerce visual hook guide
 WooCommerce visual hooks guide is about **WooCommerce pages structure and code injection guidelines**. In this [WooCommerce visual hook guides](./WooCom%20visual%20hook%20guides/) folder we listed most of them.
 
+## Resources 
+* [Business Bloomers](https://www.businessbloomer.com/)
+
