@@ -15,7 +15,9 @@ Where our custom code will be preserve.
 * [**add to cart** button click counter](./add-to-cart-button-click-counter.php)
 * [Product **Brand** Taxonomies in Shop / single product page](./product-brand-taxonomies.php)
 * [WooCommerce Email add custom Cc & Bcc Recipient](./woocom-email-cc-bcc-recipient.php)
-* [Show sold total products unit in product single page](./sold-total-unit-in-single-product-page.php)  
+* [Show sold total products unit in product single page](./sold-total-unit-in-single-product-page.php) 
+* Remove **"add to cart"** button in both shop and single product page, after then put product inquiry form (can be used through **ACF** plugin) ![](./img/product-inquiry.png)
+* [WooCommerce Page conditional Logic](./product-page-conditioal-logic.php)
 
 ## WooCommerce visual hook guide
 WooCommerce visual hooks guide is about **WooCommerce pages structure and code injection guidelines**. In this [WooCommerce visual hook guides](./WooCom%20visual%20hook%20guides/) folder we listed most of them.
