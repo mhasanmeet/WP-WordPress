@@ -1,4 +1,4 @@
-## Elementor header Shrinking on Scroll
+# Elementor header Shrinking on Scroll
 
 Here we shrink Logo, Menu and CTA button
 
@@ -13,7 +13,6 @@ Here we shrink Logo, Menu and CTA button
 * Then input these codes
 
 ```css
-
 /* Shrinker header section */
 .shrinker{
     /* background: transparent; */
@@ -71,37 +70,30 @@ Here we shrink Logo, Menu and CTA button
 }
 
 /* Tablet and Mobile Menu Shrinking */
-
 @media screen and (max-width: 1024px) {
 	/* shrinking background */
-	
-.shrinker.elementor-sticky--effects 3
-	background: #fff;
-	padding-top: 2px!important;
-	padding-bottom: 2px!important;
-	box-shadow: 0px 6px 30px -4px rgba(0,0,0,.05);
-}
+	.shrinker.elementor-sticky--effects 3
+		background: #fff;
+		padding-top: 2px!important;
+		padding-bottom: 2px!important;
+		box-shadow: 0px 6px 30px -4px rgba(0,0,0,.05);
+	}
 	
 	/* shrinking image */
-
-.shrinker.elementor-sticky--effects img {
-	width: 100px!important;
-}
+	.shrinker.elementor-sticky--effects img {
+		width: 100px!important;
+	}
 	
 	/* shrinking menu */
+	.shrinker.elementor-sticky--effects ul li a {
+		font-size: 1.2rem!important;
+	}
 
-.shrinker.elementor-sticky--effects ul li a {
-	font-size: 1.2rem!important;
-}
-
-/* shrinking button */
-
-.shrinker.elementor-sticky--effects .elementor-button {
-	padding: 10px 32px!important;
-}
+	/* shrinking button */
+	.shrinker.elementor-sticky--effects .elementor-button {
+		padding: 10px 32px!important;
+	}
 }
 
 /* End Of Shrinking Sticky Menu */
-
 ```
-

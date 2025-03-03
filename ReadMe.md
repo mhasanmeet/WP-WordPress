@@ -1,9 +1,9 @@
-## My WordPress Experience and Working codes Repository
+## WordPress
 
 * WP Installation on various platform
-* WP Child theme and it's functionality
+* Child Theme
 * Elementor Addon Development on Child theme
-* WP plugin development
+* Plugin development
 * WP and Elementor Settings after fresh installation
 * Elementor import and exportable json design codes
 * HTML, CSS & JS custom codes
