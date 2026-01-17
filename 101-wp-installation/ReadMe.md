@@ -1,8 +1,8 @@
-## WordPress Installation Guide
+# WordPress Installation Guide
 
-### [Local Install](./local-install.md)
+## [Local Install](./local-install.md)
 
-### Online Server Install
+## Online Server Install
 
 
 

@@ -1,6 +1,6 @@
-## Local Install: [Laragon](https://laragon.org/)
+# Local Install: [Laragon](https://laragon.org/)
 
-### ==Manual Install==
+## ==Manual Install==
 
 * Laragon should be installed previously. Laragon is a PHP based local server environment management system. And It has some other great facilities. 
 * Download WordPress from [WordPress Org.](https://wordpress.org/download/)
