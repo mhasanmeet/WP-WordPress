@@ -2,6 +2,8 @@
 
 /**
  * Developer Support Contact widget
+ * 
+ * Paste this code snippet into, theme > function.php
  */
 add_action('wp_dashboard_setup', function () {
 
