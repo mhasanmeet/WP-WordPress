@@ -1,5 +1,8 @@
+<?php
+
 //Remove Filter by "product type, Stock Status, Product Brand" dropdown
 add_action("admin_head", "rtbd_hide_product_type_filter");
+
 function rtbd_hide_product_type_filter(){
     global $current_screen;
     ?>
